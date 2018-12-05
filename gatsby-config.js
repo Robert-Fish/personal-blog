@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Reacting',
+    title: 'Reactivated',
     author: 'Robert Fish',
     description: 'My own personal blog on my journey',
-    siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
+    siteUrl: 'https://reactingrobert.netlify.com/',
   },
   pathPrefix: '/personal-blog',
   plugins: [

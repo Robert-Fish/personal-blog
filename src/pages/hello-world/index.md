@@ -1,21 +1,10 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hey All!
+date: '2018-12-03'
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is the first post on my new blog! So let's get some things straight.
 
-I'm sure I'll write a lot more interesting things in the future.
+I realise alot of devs like to write blogs (who doesn't have a blog these days). But here's the thing, this blog is here to get some insight into a working dev's lifestyle so if you're the curious type or if you wanna become a dev yourself. I'm sure you'll find some value here.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+For those of you who don't know what i do, here's a quick little introduction. So my name is Robert and i'm a software engineer. At the moment, i'm working with React to create some amazing products for VR that i would love to show you some day. But for now, feel free to explore a-little more and go read the next post(hopefully it'll be up before you read this).
